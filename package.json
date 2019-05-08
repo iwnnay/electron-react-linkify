@@ -1,0 +1,21 @@
+{
+  "name": "electron-react-linktify",
+  "version": "1.0.0",
+  "description": "Rectify text that is links into A tags that open external an electron app",
+  "main": "index.js",
+  "repository": "git@github.com:iwnnay/electron-react-linktify.git",
+  "author": "Joe Imhoff <iwnnay@gmail.com>",
+  "license": "APACHE-2",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
