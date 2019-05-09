@@ -7,7 +7,7 @@ module.exports = {
 
   output: {
     filename: 'app.js',
-    path: path.resolve(__dirname, 'public/js'),
+    path: path.resolve(__dirname, 'demo/js'),
   },
 
   resolve: {
@@ -53,7 +53,7 @@ module.exports = {
     contentBase: path.join(__dirname, 'src'),
     compress: true,
     port: 3000,
-    host: '0.0.0.0',
+    host: '127.0.0.1',
     inline: true,
     https: false,
     hot: false,
