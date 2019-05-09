@@ -1,2 +1,2 @@
-# electron-react-linkify
-Component that creates a div with internal text turned into links that open in a browser external an electron app
+# base_webpack_react_app
+This repo aids me in skipping setting up an environment of Webpack and React for every app
