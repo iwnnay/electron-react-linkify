@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Linktify from './linktify';
 
 ReactDOM.render(
-  <h1>Hello World!</h1>,
+  <Linktify>http://google.com</Linktify>,
   document.getElementById('root'),
 );
