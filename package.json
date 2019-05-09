@@ -19,7 +19,7 @@
     "babel"
   ],
   "author": "Joe Imhoff",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/iwnnay/base_webpack_react_app/issues"
   },
